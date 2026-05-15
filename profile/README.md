@@ -1,6 +1,6 @@
 **Since 2025.07.16**
 
-# Data Engineer Book Review Study
+# Data Engineering Book Review Study
 
 데이터 엔지니어링 관련 도서를 함께 읽고, 책에서 다루는 개념과 인사이트를 정리하여 공유하는 스터디입니다.
 
