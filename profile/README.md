@@ -16,7 +16,7 @@
 - 평소 관심은 있었지만 시작할 계기가 부족했던 데이터 엔지니어링 주제를 스터디를 계기로 본격적으로 다룹니다.
 - 같은 책이라도 각자의 경험과 도메인에 따라 해석이 달라지는 부분을 토론으로 보완하고, 혼자서는 닿지 못했을 관점까지 학습 범위를 확장합니다.
 
-<br>
+<!-- <br>
 
 ## Book List
 
@@ -28,4 +28,4 @@
 | 4 | 러닝 스파크(Learning Spark) 2E | 줄스 담지(제이펍) | Apache Spark | 완료 | [Repo](https://github.com/de-study/learning-spark) |
 | 5 | 데이터 엔지니어링 디자인 패턴 | 바르토시 코니에치니(한빛미디어) | 데이터 파이프라인 설계 패턴 70선 | 진행중 | [Repo](https://github.com/de-study/data-engineering-design-patterns) |
 
----
+--- -->
